@@ -4,8 +4,8 @@ Auranyl is a visually elegant React Native mobile app for booking restaurant res
 
 ## 🖼️ Preview
 
-<img src="screenshots/home.png" width="250" />
-<img src="screenshots/reservation.png" width="250" />
+<img src="items/Home.png" width="250" />
+<img src="items/Reservation.png" width="250" />
 
 ## ✨ Features
 
